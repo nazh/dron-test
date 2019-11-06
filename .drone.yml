@@ -2,7 +2,7 @@ kind: pipeline
 name: default
 
 steps:
-- name: docker  
+- name: dockertest  
   image: plugins/docker
   settings:
     username: nheryla
