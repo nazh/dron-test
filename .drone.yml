@@ -7,5 +7,5 @@ steps:
   settings:
     username: nheryla
     password: UniversPW88
-    repo: foo/bar
+    repo: nheryla/rsyslog
     tags: latest
